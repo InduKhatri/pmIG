@@ -1,0 +1,11 @@
+### Step 1
+
+Vcf2Ped.py converts Vcf to "Ped like" files that can process upto three alternate alleles in Vcf files.
+
+Vcf2Ped_cmd.sh can be used directly in bash to process all the files in a folder.
+
+
+### Step 2
+
+Given vcf and ped files (generated from step 1) Ped2Hap.R generates the haplotypes counts from 26 populations of 1000 Genomes 
+for each haplotype. Minimum haplotype count is 4 Haplotypes.
