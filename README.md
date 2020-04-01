@@ -1,2 +1,2 @@
-# popGIG
-Populations specific Germline Immunoglobulins
+# pmIG
+Populations matched germline alelles
