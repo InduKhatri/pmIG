@@ -1,2 +1,1 @@
-# pmIG
-Populations matched germline alelles
+# pmIG: Populations matched germline alleles
